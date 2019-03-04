@@ -15,7 +15,7 @@ describe("index.js", () => {
     "a"
   ];
 
-  /* function triggerKeyDown(key) {
+  function triggerKeyDown(key) {
     const keyboardEvent = new KeyboardEvent("keydown", { key });
     document.body.dispatchEvent(keyboardEvent);
   }
@@ -47,4 +47,3 @@ describe("index.js", () => {
     });
   });
 });
-*/
